@@ -57,3 +57,11 @@ display(df.select(convertFtoC("unit", "temp")))
 
 # MAGIC %md
 # MAGIC this is new markdown comment
+
+# COMMAND ----------
+
+display(df)
+
+# COMMAND ----------
+
+
